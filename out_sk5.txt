@@ -1,0 +1,8 @@
+Nama : nama
+NIM  : 2200018222
+Mata Kuliah				 SKS
+Algoritma Pemrograman		 3
+Matematika Diskrit		 3
+Bahasa Indonesia		 2
+Jumlah SKS					 8
+Total Pembayaran		820800
